@@ -3,6 +3,10 @@
     background-color: white;
 }
 
+.whitetext{
+    color: white;
+}
+
 #header{
     padding: 45px;
     margin-left: 10%;
